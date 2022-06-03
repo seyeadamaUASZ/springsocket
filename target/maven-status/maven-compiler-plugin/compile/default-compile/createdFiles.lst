@@ -1,0 +1,3 @@
+pac\controllers\WebSocketController.class
+pac\configuration\WebSocketConfiguration.class
+pac\Application.class
